@@ -1,0 +1,1 @@
+(library (name cama) (public_name cama))
